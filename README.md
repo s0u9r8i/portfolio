@@ -1,18 +1,10 @@
-# Shuyu Peng Portfolio
+# Shuyu (Suri) Peng Portfolio
 
-Static HTML/CSS/JS portfolio site.
+Static portfolio site built with HTML, CSS, and JavaScript.
 
 ## Files
 
-- `index.html` - page markup
-- `styles.css` - layout, responsive styles, popup, and transitions
-- `script.js` - main tab switching, section project switching, email copy, and graphics quick-view behavior
-- `assets/docs/` - resume PDF
-- `assets/graphics/` - local graphics images and GIFs
-- `assets/kochidoko/` - local Kochidoko images
-- `assets/readery/` - local Readery UI/UX case images
-- `assets/soft-ground/` - local SOFTGROUND images
-
-## Run Locally
-
-Open `index.html` in a browser.
+- `index.html` - main site page
+- `styles.css` - site styling and responsive layouts
+- `script.js` - tab switching, project switching, image popup, email copy, and scroll memory
+- `assets/` - resume PDF
