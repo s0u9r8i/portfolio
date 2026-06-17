@@ -8,3 +8,7 @@ Static portfolio site built with HTML, CSS, and JavaScript.
 - `styles.css` - site styling and responsive layouts
 - `script.js` - tab switching, project switching, image popup, email copy, and scroll memory
 - `assets/` - resume PDF
+
+## Run Locally
+
+Open `index.html` in a browser.
