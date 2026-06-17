@@ -1,6 +1,6 @@
 # Shuyu Peng Portfolio
 
-Static HTML/CSS/JS portfolio site.
+Static HTML/CSS/JS portfolio site. Last update Jun 17, 2026.
 
 ## Files
 
